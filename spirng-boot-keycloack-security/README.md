@@ -12,3 +12,6 @@
   you just follow the official documentations to get it installed https://www.keycloak.org/getting-started/getting-started-zip
 
 once you done this installation just clone this application and configure your credential in application.properties
+
+# For More references
+  https://medium.com/devops-dudes/securing-spring-boot-rest-apis-with-keycloak-1d760b2004e
